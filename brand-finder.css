@@ -43,6 +43,10 @@
     flex-direction: column !important;
 }
 
+#finder_results_body{
+    display: block;
+}
+
 .finder_form_right{
     display: flex !important;
 }
