@@ -86,7 +86,7 @@
 
 @media screen and (max-width: 600px) {
 
-    #finder_content{
+    #finder_content, .tab-pane{
 
         width: 100% !important;
     }
