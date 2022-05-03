@@ -79,3 +79,19 @@
 .finder_row{
     width: 100% !important;
 } 
+
+.finder_miles{
+    margin-left: auto;
+}
+
+@media screen and (max-width: 600px) {
+
+    .tab-pane{
+
+        width: 100% !important;
+    }
+
+    #finder_form{
+        margin: 0 !important;
+    }
+  }
