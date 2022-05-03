@@ -59,3 +59,19 @@
     padding: 0 3rem !important;
     text-transform: uppercase !important;
 }
+
+#map_canvas{
+    height: 350px;
+}
+
+.finder-map-info{
+    color: #002553;
+}
+
+.finder_address_container a{
+    color: #002553 !important;
+}
+
+.finder_row{
+    width: 100% !important;
+} 
