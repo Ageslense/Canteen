@@ -84,6 +84,14 @@
     margin-left: auto;
 }
 
+#finder_map_paging{
+    position: none;
+}
+
+.panel-footer a{
+    color: black !important;
+}
+
 @media screen and (max-width: 600px) {
 
     #finder_content, .tab-pane{
@@ -93,5 +101,10 @@
 
     #finder_form{
         margin: 0 !important;
+    }
+
+
+    #finder_tab_nav{
+        padding-top: 1rem;
     }
   }
