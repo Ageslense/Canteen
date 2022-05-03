@@ -85,7 +85,7 @@
 }
 
 #finder_map_paging{
-    display: none;
+    display: none !important;
 }
 
 .panel-footer a{
